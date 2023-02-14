@@ -20,7 +20,7 @@ circle(70,210)
 pencolor("black")
 
 seth(30)
-fillcolor("red")
+fillcolor("pink")
 end_fill()
 seth(-90)
 pencolor("red")
